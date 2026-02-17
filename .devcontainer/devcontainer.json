@@ -1,11 +1,4 @@
 {
   "name": "Java",
-  "image": "mcr.microsoft.com/devcontainers/java:25",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "vscjava.vscode-java-test"
-      ]
-    }
-  }
+  "image": "mcr.microsoft.com/devcontainers/java:25"
 }
