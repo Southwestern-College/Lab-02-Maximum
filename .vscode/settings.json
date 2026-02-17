@@ -22,5 +22,9 @@
 
   "extensions.ignoreRecommendations": true,
   "redhat.telemetry.enabled": false,
-  "markdown.preview.doubleClickToSwitchToEditor": false
+  "markdown.preview.doubleClickToSwitchToEditor": false,
+
+  "java.project.referencedLibraries": [
+    ".test/**/*.jar"
+  ]
 }
