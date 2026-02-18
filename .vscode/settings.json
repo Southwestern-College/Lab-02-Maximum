@@ -24,6 +24,10 @@
   "redhat.telemetry.enabled": false,
   "markdown.preview.doubleClickToSwitchToEditor": false,
 
+  "java.project.sourcePaths": [
+    ".",
+    ".test"
+  ],
   "java.project.referencedLibraries": [
     ".test/**/*.jar"
   ]
