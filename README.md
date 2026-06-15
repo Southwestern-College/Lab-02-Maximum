@@ -1,41 +1,45 @@
-# Lab 00: Lab_Name
+# Lab 02: Maximum
 
 ## Objectives
-- Objective
+- Read data from the keyboard.
+- Compose boolean expressions using comparison operators.
+- Implement conditional logic (if, else, and elif).
 
 ## Program Description
-Lorem ipsum.
-
-## Instructions
-1. Instruction
+This program will prompt the user to enter three integer numbers and determine the maximum of these three numbers.
 
 ## Program Specifications
-- Specification
+1. Create a new class called `Maximum` with a `main` method.
+2. Use a `Scanner` object to read input from the keyboard.
+3. Declare four integer variables named:
+  - `number1`
+  - `number2`
+  - `number3`
+  - `max`
+4. Prompt the user to enter values for variables `number1`, `number2`, and `number3`.
+5. Find the maximum of `number1`, `number2`, and `number3`, then assign it to the `max` variable.
+6. Display the maximum value.
 
-## Sample Code
-```java
-public class ClassName {
-    public static void main(String[] args) {
-        System.out.println("output");
-    }
-}
-```
+Adhere to all coding standards.
 
 ## Sample Output
 ```
-output
+This program finds the maximum of three integer numbers.
+Enter the 1st integer: 1
+Enter the 2nd integer: -1
+Enter the 3rd integer: 0
+The maximum is 1
 ```
 
 ## Coding Standards
-- Follow the program specifications exactly.
 - Use meaningful identifiers and follow Java naming conventions.
 - Remove all auto-generated comments and unused code.
 - Document code using [JavaDoc](https://www.baeldung.com/javadoc), including:
-   - Program/class description
-   - Attribution using the `@author` tag.
+  - Program/class description
+  - Attribution using the `@author` tag.
 - Comment only when necessary.
 - Format code cleanly and consistently
-   - Proper indentation
-   - Brace alignment
-   - Whitespace for readability
+  - Proper indentation
+  - Brace alignment
+  - Whitespace for readability
 - Ensure prompts and output are clear and properly formatted.
