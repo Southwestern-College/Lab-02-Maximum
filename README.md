@@ -9,13 +9,13 @@
 This program will prompt the user to enter three integer numbers and determine the maximum of these three numbers.
 
 ## Program Specifications
-1. Create a new class called `Maximum` with a `main` method.
+1. Create a new class called `Maximum` with a `main` method. In the `main` method complete the following,
 2. Use a `Scanner` object to read input from the keyboard.
 3. Declare four integer variables named:
-  - `number1`
-  - `number2`
-  - `number3`
-  - `max`
+   - `number1`
+   - `number2`
+   - `number3`
+   - `max`
 4. Prompt the user to enter values for variables `number1`, `number2`, and `number3`.
 5. Find the maximum of `number1`, `number2`, and `number3`, then assign it to the `max` variable.
 6. Display the maximum value.
