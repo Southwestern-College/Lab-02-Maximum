@@ -3,7 +3,7 @@
 ## Objectives
 - Read data from the keyboard.
 - Compose boolean expressions using comparison operators.
-- Implement conditional logic (if, else, and elif).
+- Implement conditional logic (if, else, and else-if).
 
 ## Program Description
 This program will prompt the user to enter three integer numbers and determine the maximum of these three numbers.
